@@ -1,0 +1,86 @@
+.SS lastminute.com \- September 2012 to present.
+The Netherlands started to feel like a place I've seen.  For whole of my
+life I've been moving from smaller places to bigger, and found them more
+interesting than the previous.  With that in mind it really should not be
+great surprise I went to
+.IR London .
+.PP
+When I search a job from London I was open to any reasoanbly sounding
+company, and lastminute.com found me.  In the lastminute.com I have
+duties from typical
+.I senior system administrator
+tasks to an
+.I architect
+type
+.IR role .
+.PP
+At the time when I joined
+.I puppet
+management was still new for the
+company.  Now the existing systems has been either reinstalled or retro
+fitted to use puppet,
+.IR foreman ,
+.IR pulp ,
+and some systems even do continuous
+deployments.  Needless to say cleaning up a decade of legacy is a big on
+going job, with a twist that once something starts to work one finds more
+broken items to fix.
+.PP
+The introduction and proper use of configuration management, and advanced
+facilities for developers such as
+.IR "jenkins pipelines" ,
+has made it clear there is lots of room for improvements.  The areas
+where improvements are mostly needed are
+.IR monitoring ,
+.IR "inventory maintenance" ,
+.IR "account management" ,
+and
+.IR orchestration .
+.PP
+Due my experience in open source my managers has asked me to drive many
+of the improvement efforts in
+.IR "systems designer role" .
+That has lead my work time to be split in three more or less equal effort
+categories;
+.I keep
+the other system admins and developers in
+.I align
+with
+.IR "long term goals" ,
+try and document
+.IR "new stuff" ,
+take a part of
+.I problem solving
+when old system has
+.IR "big impact issues" .
+Basically I am halftime tech coach part time developer researcher
+fireman.
+.PP
+The lastminute.com job has made me to learn a lot of new stuff.  The
+existing puppet skills has been updated to whole new level.  I had to
+learn some
+.IR ruby ,
+and relearn
+.I subversion
+in ninja level.  This is also the first time when I am so aware of
+.IR "PCI compliancy" .
+It seems in few months
+time there is need to understand
+.I RabbitMQ
+really well, as
+.I mcollective
+and
+.I Sensu
+installations will form basis of system self healing.  The data storage
+of choise for that effort will be
+.IR Graphite .
+.PP
+One of the new aspects in this job for me is dealing members of the team
+in India and Texas.  Having
+.I team so far apart
+in timezone wise is not easy, but there is no other option than deal the
+situation and be as
+.I clear
+in
+.I communications
+as possible.
