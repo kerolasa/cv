@@ -1,0 +1,23 @@
+.SS "Contact information"
+.TS
+tab(:);
+left l l.
+Address:95 Ormiston Grove
+:London
+:W12 0JP
+:United Kingdom
+Mobile:+447510559067
+Email:kerolasa@iki.fi
+.TE
+.\" I moved to London in late August 2012.  First I came to Whitechappel, but
+.\" when my wife got a job her commute would have been quite miserable from
+.\" there so we moved ot Shepherd's bush.
+.\"
+.\" Before move to UK I lived in the Netherlands for four years, mostly in
+.\" Amsterdam.  The Netherlands was my first expat experience, and I quite
+.\" enjoyed it.
+.\"
+.\" In Finland I lived in my home town Raahe, where I moved to Tampere to
+.\" work for TeliaSonera.  When Tampere felt a bit small place I moved to
+.\" Helsinki where I met my wife and stayed about five years until moving to
+.\" Amsterdam.
