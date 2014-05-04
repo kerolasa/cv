@@ -1,0 +1,22 @@
+.SS "Basic information"
+.TS
+tab(:);
+left l l.
+Name:Kerola, Sami Matias
+Date of birth:April 28th, 1977
+Place of birth:Raahe, Finland
+Marital Status:Married
+Driver's Licence:Yes, category BE
+Military Rank:Lance Corporal (korpraali)
+.TE
+.\"
+.\" Agreed, the military rank is a bit strange thing to have in CV.  Reason
+.\" why I mention it is quite simple.  In Finland there is a mandatory army,
+.\" and it quite common in that country to mention your rank.  Notice that my
+.\" rank is tiny bit better than just a common soldier which means they
+.\" appriciated my service.
+.\"
+.\" Talking about service in army my position was in an office doing
+.\" paperwork for the squad, and it happen to be that my fairly good in
+.\" typing that made me the most productive office soldier they had seen for
+.\" years.  That probably was reason why I got +1 to my rank.
