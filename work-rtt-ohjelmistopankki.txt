@@ -1,0 +1,11 @@
+.SS "RTT Ohjelmistopankki" \- June 1999 to March 2000.
+The RTT Ohjelmistopankki was my first real job.  In this company I helped
+the
+.I sales
+as a technical person.  Company was selling mostly computing hardware to
+small business near by, and education facilicies all over Finland.  Later
+category was the reason why technical people were needed.
+.\"
+.\" My greatest achievement in the RTT was introduction of Gnatbox firewall
+.\" to their product catalogue.  AFAIK that product made good amount of
+.\" profits long after I were gone.
