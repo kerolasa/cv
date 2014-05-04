@@ -1,0 +1,42 @@
+.SS "Further Qualification in Information Technology"
+Sep 15 2004 - Feb 09 2006 Amiedu
+.\" The decision to get job qualification from Amiedu was given my friend
+.\" Tuomas who did similar study.  Point simply was, and is, that since
+.\" neither of us were nothing more than self learned hackers we had an issue
+.\" to apply any official job positions, for example working for government.
+.\" Since these studies where practically free, and could be made as evening
+.\" course I thought it is better to have some official paper telling I'm
+.\" some good than nothing.
+.\"
+.\" == The official text, I stole the last chapter ==
+.\" The compulsory module of the qualification is information technology in
+.\" organisational operations.  In addition, candidates must also take either
+.\" of the following optional modules: programming or systems support.  It is
+.\" also possible to incorporate the entrepreneurship module into the
+.\" qualification.
+.\"
+.\" Candidates must understand information technology as being part of an
+.\" organisation's operations.  They must be able to describe the data
+.\" security regulations of their own organisation and to justify their
+.\" actions accordingly.  They must know how to link up their own work as
+.\" part of the organisation's operations and to develop their vocational
+.\" skills purposefully.  They must be familiar with the functions of
+.\" computer hardware and peripherals used in their working community and
+.\" know how to use workstation and server operating systems.  They must be
+.\" able to acquire information from different sources independently and to
+.\" guide users in the use of software.
+.\"
+.\" Candidates specialising in systems support must be able to set up
+.\" hardware and peripherals and command fault management.  They must be able
+.\" to document computers and peripherals used in their workplace and to
+.\" purchase equipment.  They must know how to install software on network
+.\" environments and on workstations and to test its functionality.  They
+.\" must be familiar with the basics of programming and databases and know
+.\" how to install and maintain data base management systems and anti-virus
+.\" systems.  They must be familiar with the architecture of local area
+.\" networks and command the basic functions of network administration and
+.\" maintenance.
+.PP
+Those who have completed the qualification may work in different
+assignments within IT companies or as people responsible for the use of
+PCs and LANs in public administration, companies and other corporations.
