@@ -1,0 +1,12 @@
+.SS Senior secondary school
+Jun 01 1996 Saloisten lukio
+.\" Finnish basic education, or the years when you make the childhood
+.\" friends, learn how to read, and do stuff that later feels like distant
+.\" dream.
+.\"
+.\" The Finnish senior secondary school happens in prime time of teen years.
+.\" In these years I learned what sort of music I prefer, and that beer is
+.\" great.  Perhaps the most important thing from these times are the geek
+.\" friends whom with I played D&D and Rolemaster, saw hacking Linux and I
+.\" decided it was cool and I wanted to do that as well, plus got interested
+.\" of science.  I'm not sure if learn anything important in school.
