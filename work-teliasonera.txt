@@ -1,0 +1,44 @@
+.SS TeliaSonera \- April 2000 to December 2006.
+Sales support was not really my thing, so I started to look for more
+.I proper system administration
+jobs.
+.\"  Now thinking I were incredibly lucky that the bubble years where
+.\" going on.  Otherwise changes of getting hired as a self learned computer
+.\" hacker would have been pretty bleak.
+The company who took a change with me was
+.IR TeliaSonera .
+This is the point in time when I consider my professional system
+administration career to begin.  The first three or four years I was a
+.IR "web portal administrator" .
+In the early days portal was made of
+.IR "Vignette V4" ,
+that I upgraded to
+.IR V5 .
+Loadbalancing was done with
+.IR "Alteon switches" ,
+that were there before my time.  Later on the portal got
+.I Bluecoat
+reverse
+proxies were used for http acceleration, user authentication was moved
+from content database to
+.IR "Sun Directory LDAP" ,
+along with various other enhancements that most people consider now a
+days as standard web building blocks.  For me it was great to be part of
+team that was among first ones in the Finland to do this sort of stuff.
+.PP
+When I moved from Tampere to Helsinki I got a change to become a
+.I DNS hostmaster team
+technical lead.  My duty was to
+.IR maintain ,
+.I upgrade
+and finally
+.I redesign a
+.I DNS platform
+containing 20.000 domains and about 1 gigabytes of recursion traffic per
+hour.  I also took care of answering to hostmaster requests that required
+in depth
+.I RFC
+knowledge.  These DNS systems ran on
+.IR Linux , and had
+.I F5 BigIP
+load balancing.
