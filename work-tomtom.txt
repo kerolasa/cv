@@ -1,0 +1,61 @@
+.SS TomTom \- September 2008 to August 2012.
+I always knew I wanted to go abroad.  It took me nearly a year to find a
+position that would work for both me and employer, and all matched with
+TomTom.
+.PP
+When working in TomTom my primary job is to maintain
+.UR http://routes.tomtom.com/
+.UE
+site.  The job included
+.I change management
+from test to production,
+.IR "developer support" ,
+being
+.IR "third line customer support" ,
+setting up
+.I monitoring
+and looking after
+.I security
+and
+.IR "performance metrics" .
+This role included a lot of interaction with different developer teams,
+who made the web map and traffic information systems.  Without knowing I
+was doing
+.IR devops .
+.PP
+But being part of devops did not mean I could stop support activities in
+an
+.IR "on-call rota" ,
+or being part of various small Techops organization
+.IR projects .
+Such projects included two
+.IR "data center moves" ,
+taking
+.I puppet
+into use, reconstruction all
+.IR documentation ,
+and organizational stream lining that happen in form of tearing down lots
+of red tape.  I also did reimplementation of all
+.I DNS
+management and server setup.
+.PP
+In TomTom almost all systems are
+.IR Linuxes ,
+network equipment
+.I Cisco
+and storage
+.IR NetApp .
+In TomTom nearly all applications are run in
+java
+containers, which are 60%
+.IR jboss ,
+30%
+.I tomcat
+and rest are various such as
+.I daemons
+wrote in
+.IR C .
+In this company I got to be very familiar with
+.I Confluence
+and
+.IR Jira .

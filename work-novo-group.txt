@@ -1,0 +1,20 @@
+.SS "Novo Group" \- February 1999 to June 1999.
+.\" I came back to normal life from army just before new year 1999, and I
+.\" decided to idle as long as I feel.  Three weeks later I found myself
+.\" working with Finnish government funding in a local system administration
+.\" company as trainee.
+In
+.I Novo Group
+as system admin trainee I encountered
+.I OpenVMS
+which I really could not quite understand.  Especially the
+.I DECNet
+was something that I struggled, but apparently I made good impression to
+my boss as I got some responsibilities to do
+.I Digital unix
+work.  I also did some
+.I microsoft windows
+support, and this has been the last time I've done that during work
+hours.
+.\" Well, I still help my parents occasionally, when they have windows
+.\" problems, but that's different thing).
