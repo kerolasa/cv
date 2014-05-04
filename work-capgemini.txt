@@ -1,0 +1,54 @@
+.SS Capgemini Finland \- January 2007 to August 2008.
+After the telco experience I went to
+.I Capgemini
+to checkout how it feels to be a consultant.
+.PP
+I was tasked to be
+.I principal engineer
+in implementing retail company
+.IR "order process systems" .
+At that time the system handled orders worth of
+.IR "billion euros per year" .
+When the retail system was done my second task in Capgemini was an
+internal
+.I DNS architecture
+for
+.I "Nokia Siemens Networks" .
+The goal to make ridiculously highly reliable system, so I told them how
+to make
+.I anycast
+DNS to work.
+.PP
+While being tasked with fairly interesting client jobs I also took part
+in
+.IR "on-call rota" ,
+and participated in normal system administration activities for various
+big and small customers.  That familiarized me with
+.I AIX
+on
+.IR "IBM z-series" ,
+.I HP-UX
+of all sorts using hardware from blades
+to
+.IR superdome .
+I also got familiar with
+.IR "Sun Cluster ,
+.I HPUX Serviceguard
+and
+.IR HACMP
+on AIX.  The
+.I Oracle RAC
+setup in HP-UX environment using disks
+from
+.I HP EVA
+with
+.IR multipathing ,
+that where bound to gether with
+.I volume groups
+and
+.I logical volumes
+made me first pull my hair off, but now when I think the stuff the
+experience really thought me how to deal
+.IR "block devices" .
+Perhaps I should be happy that I needed to take care of that mess as
+well.
