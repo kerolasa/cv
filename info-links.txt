@@ -1,0 +1,23 @@
+.SS Links
+.UR http://www.iki.fi/kerolasa/
+My homepage
+.UE .
+.br
+.UR http://www.linkedin.com/in/kerolasa
+My Linkedin profile
+.UE .
+.br
+.UR https://www.ohloh.net/accounts/kerolasa
+Ohloh profile
+.UE .
+.br
+.UR https://github.com/kerolasa/cv
+This resume in git format
+.UE .
+.\" Anyone looking my home page should realize I am not a web site UI
+.\" developer or graphical designer, but it works and is fast.  The design
+.\" reflects what is important to me.  In short less is more.
+.\"
+.\" In my opinion the Ohloh page is most important for anyone who is
+.\" interested of my CV.  See the page, and check my kudo rank.  As you can
+.\" see I am active open source contributor, and I can prove it.
