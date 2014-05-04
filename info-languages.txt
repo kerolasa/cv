@@ -1,0 +1,26 @@
+.SS "Language skills"
+.TS
+tab(:);
+left l l.
+Finnish:native
+English:good
+Swedish:bare minimum
+Dutch:few words
+.TE
+.\" Quite frankly I am terrible what comes to human languages.  I blame my
+.\" attitude, for me it's good enough if I am roughly understood.  Minding
+.\" too much about grammary would probably stop me saying anything, and that
+.\" is not good either.  What ever you do please do not consider my services
+.\" in literature would be worth while investing a penny.
+.\"
+.\" That said I claim being very active ticket comment writer, documentation
+.\" updater, and excellent in making diagrams, idea illustrations, and
+.\" statistical analysis in graphical format.  Some even say I am the most
+.\" talkative Finn they have ever met.  So I do like communication, it's just
+.\" the mistakes that I don't care too much.
+.\"
+.\" BTW the note in Swedish relates to Finnish regulations.  Every Finn must
+.\" learn Swedish to some basic level.  Most accomplishes to do that to a
+.\" level of passing the studies, and then after not using the language for
+.\" so many years there is not much left of it.  Ask any Finn, that is a
+.\" pretty common story with our Swedish skill.
