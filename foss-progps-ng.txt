@@ -1,0 +1,26 @@
+.SS progps-ng
+It was ages ago when I sent a patch to procps to add \-\-human readable
+option to
+.IR free (1)
+command.  The upstream was dead, and nothing happen.  Then I noticed
+RedHat, Suse, and Debian had forked procps, so I sent the patch to them
+and it was accepted in April 2011.
+.PP
+By summer 2012 I had done about two hundred changes to project, that
+fixed
+.IR "build system" ,
+unified
+.IR "coding style" ,
+added
+.I long options
+to commands,
+made
+.I manual pages
+clean, enhanced
+.IR "error printing" ,
+made
+.I NLS
+to work and so on.  At this point the libproc was known to be next thing
+requiring a lot of changed, but the project seemed to lack an idea how to
+do that.  Meanwhile I end up doing some other contributions, and the
+procps-ng eventually was out of my radar.
