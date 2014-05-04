@@ -1,0 +1,11 @@
+.SS "GNU Hello"
+After sending few patches to
+.I GNU Hello
+the maintainer asked would I like to the project.  I was ok with that, so
+now I am a official
+.IR "GNU project maintainer" .
+While I never intented to do this I'm sort of proud I got the privileged
+to have honor to be trusted with this status.
+.\"
+.\" See also
+.\" http://lists.gnu.org/archive/html/bug-hello/2013-11/msg00006.html
