@@ -1,4 +1,4 @@
-.SS lastminute.com \- September 2012 to present.
+.SS lastminute.com \- September 2012 to June 2015.
 The Netherlands started to feel like a place I've seen.  For whole of my
 life I've been moving from smaller places to bigger, and found them more
 interesting than the previous.  With that in mind it really should not be
@@ -64,16 +64,6 @@ and relearn
 .I subversion
 in ninja level.  This is also the first time when I am so aware of
 .IR "PCI compliancy" .
-It seems in few months
-time there is need to understand
-.I RabbitMQ
-really well, as
-.I mcollective
-and
-.I Sensu
-installations will form basis of system self healing.  The data storage
-of choise for that effort will be
-.IR Graphite .
 .PP
 One of the new aspects in this job for me is dealing members of the team
 in India and Texas.  Having
@@ -84,3 +74,13 @@ situation and be as
 in
 .I communications
 as possible.
+.PP
+My final deliverable at lastminute.com end up being a technical plan to
+migrate data center migration from US to Europe, with emphasis on infra
+structure services, such as provisioning and configration management.
+Luckily by the time planning took place the puppet master was already
+using
+.I gitlab
+and
+.I r10k
+so that managing complex view of data was at leas possible if not easy.
