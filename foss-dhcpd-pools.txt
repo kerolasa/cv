@@ -12,15 +12,15 @@ was wrote in
 .IR C .
 When the analysis program ran as expected I decided to publish the work.
 .PP
-I have been maintaining this tool since 2006.  The dhcpd-pools has been
-really great project for me.  I have learned how to use
+I have maintained this tool since 2006.  The dhcpd-pools has been
+really great project for me, and lead to know how to use
 .I automake
 and
 .IR autoconf ,
 static analyzers such as
 .I gcc
 with all warnings,
-.IR cmake ,
+.IR clang ,
 .IR smatch ,
 and
 .IR cppcheck .
