@@ -23,7 +23,7 @@ While being tasked with fairly interesting client jobs I also took part
 in
 .IR "on-call rota" ,
 and participated in normal system administration activities for various
-big and small customers.  That familiarized me with
+big and small customers.  That familiarised me with
 .I AIX
 on
 .IR "IBM z-series" ,
@@ -43,7 +43,7 @@ from
 .I HP EVA
 with
 .IR multipathing ,
-that where bound to gether with
+that where bound together with
 .I volume groups
 and
 .I logical volumes

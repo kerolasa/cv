@@ -5,7 +5,7 @@ interesting than the previous.  With that in mind it really should not be
 great surprise I went to
 .IR London .
 .PP
-When I search a job from London I was open to any reasoanbly sounding
+When I search a job from London I was open to any reasonably sounding
 company, and lastminute.com found me.  In the lastminute.com I have
 duties from typical
 .I senior system administrator
@@ -63,7 +63,7 @@ learn some
 and relearn
 .I subversion
 in ninja level.  This is also the first time when I am so aware of
-.IR "PCI compliancy" .
+.IR "PCI compliance" .
 .PP
 One of the new aspects in this job for me is dealing members of the team
 in India and Texas.  Having
@@ -76,10 +76,9 @@ in
 as possible.
 .PP
 My final deliverable at lastminute.com end up being a technical plan to
-migrate data center migration from US to Europe, with emphasis on infra
-structure services, such as provisioning and configration management.
-Luckily by the time planning took place the puppet master was already
-using
+migrate data centre migration from US to Europe, with emphasis on infra
+structure services, such as provisioning and configuration management.
+Luckily by the time planning took place the puppet master was already using
 .I gitlab
 and
 .I r10k

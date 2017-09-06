@@ -26,7 +26,7 @@ was doing
 But being part of devops did not mean I could stop support activities in
 an
 .IR "on-call rota" ,
-or being part of various small Techops organization
+or being part of various small Techops organisation
 .IR projects .
 Such projects included two
 .IR "data center moves" ,
@@ -34,7 +34,7 @@ taking
 .I puppet
 into use, reconstruction all
 .IR documentation ,
-and organizational stream lining that happen in form of tearing down lots
+and organisational stream lining that happen in form of tearing down lots
 of red tape.  I also did reimplementation of all
 .I DNS
 management and server setup.

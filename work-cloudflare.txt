@@ -13,16 +13,16 @@ position.
 .PP
 When I joined Cloudflare it had ridiculously large installation, it handled
 more requests and traffic I've ever seen.  During my time in Cloudflare the
-company has doubled everything.  At September 2017 scale is over 100 points
-of presense, thousands of servers, 2 terabits of traffic flows, and 2
-million requests per second.  As an SRE my duties has included
+company has doubled everything.  At September 2017 scale is over 100
+installation locations, thousands of servers, 2 terabits of traffic flows,
+and 2 million requests per second.  As an SRE my duties has included
 .IR "on-call shifts" ,
-.IR "attack mitigations" ,
+.IR "attack mitigation" ,
 .I salt stack
 configuration management, and
 .I release engineer
 work.  Due the sheer number of releases I have taken care of I was asked to
-formalize
+formalise
 .IR "release process" .
 .PP
 There are lots of smart people in Cloudflare, who are doing all sorts of
@@ -51,6 +51,6 @@ commit messages,
 .IR "Jira tickets" ,
 and in
 .IR Confluence 
-documenation.  I am pretty sure my influence to Cloudflare has been positive
+documentation.  I am pretty sure my influence to Cloudflare has been positive
 with making others to follow my practises, such as not assuming people can
 read your mind.
