@@ -9,4 +9,5 @@ Date:   Fri Oct 1 00:33:44 2010 +0200
 .PP
 That makes beginning of real open source activity.  Being member of this
 project has changed a lot how I think about computers, programming, and
-co-operating with community.
+co-operating with community.  I have even caused a CVE-2015-5224, and fixed
+one CVE-2015-5218.
