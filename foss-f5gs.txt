@@ -28,9 +28,6 @@ daemon as
 .IR "health check"  .
 Tool also allows run of state change scripts, that will perform tasks
 .I managed with puppet
-and relevant for the system.  An example of such is supression of
+and relevant for the system.  An example of such is suppression of
 .I alarming
 when maintenance is declared.
-.PP
-This command is still very new, and it is difficult to tell if the tool
-ever gets any popularity in greater audience.
