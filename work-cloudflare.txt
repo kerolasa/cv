@@ -1,0 +1,56 @@
+.SS Cloudflare \- July 2015 onwards.
+Couple months after lastminute.com was bought things started to look like
+company acquisition related layoffs are coming, so I moved on.
+.I London
+at this point still felt like a reasonable place to live, so I decided to
+find something else from the same town.  While looking Cloudflare got my
+attention as a company that is using
+.IR golang ,
+so I decided to send a CV to them and see if I could get a programmer
+position.  That did not turn out to happen, but I got
+.I systems reliability engineer (SRE)
+position.
+.PP
+When I joined Cloudflare it had ridiculously large installation, it handled
+more requests and traffic I've ever seen.  During my time in Cloudflare the
+company has doubled everything.  At September 2017 scale is over 100 points
+of presense, thousands of servers, 2 terabits of traffic flows, and 2
+million requests per second.  As an SRE my duties has included
+.IR "on-call shifts" ,
+.IR "attack mitigations" ,
+.I salt stack
+configuration management, and
+.I release engineer
+work.  Due the sheer number of releases I have taken care of I was asked to
+formalize
+.IR "release process" .
+.PP
+There are lots of smart people in Cloudflare, who are doing all sorts of
+clever things.  I cannot say I am familiar with all what is going on, but
+during my period here I did come familar with
+.IR Grafana ,
+and
+.I Prometheus
+monitoring,
+.IR "Perceus provisioning" ,
+and
+.I Circus
+process manager.  I wish I would have had more time to get familiar with
+other technologies in use, such as Kafka, Mesosphere and Marathon, Apache
+Flink, and golang, but my job was only to see from users perspective how
+these work.
+.PP
+One of the takings from Cloudflare is an experience to be part of company
+that is structured to follow the sun setup.  The company has SREs in London,
+San Francisco, and Singapore.  That means three handovers per day.  Lesson
+never gets old, it is the clear communications that make and break days.
+It really does matter what to be verbose and accurate in
+.I git
+commit messages,
+.IR HipChat ,
+.IR "Jira tickets" ,
+and in
+.IR Confluence 
+documenation.  I am pretty sure my influence to Cloudflare has been positive
+with making others to follow my practises, such as not assuming people can
+read your mind.
