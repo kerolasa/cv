@@ -2,16 +2,15 @@
 .TS
 tab(:);
 left l l.
-Address:95 Ormiston Grove
+Address:Flat 4, Clarion House
+:70 Park Hill
 :London
-:W12 0JP
+:SW4 9PB
 :United Kingdom
-Mobile:+44747930472
+Mobile:+447795344427
 Email:kerolasa@iki.fi
 .TE
-.\" I moved to London in late August 2012.  First I came to Whitechappel, but
-.\" when my wife got a job her commute would have been quite miserable from
-.\" there so we moved ot Shepherd's bush.
+.\" I moved to London in late August 2012, where I am now living.
 .\"
 .\" Before move to UK I lived in the Netherlands for four years, mostly in
 .\" Amsterdam.  The Netherlands was my first expat experience, and I quite
