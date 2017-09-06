@@ -4,11 +4,11 @@ My homepage
 .UE .
 .br
 .UR http://www.linkedin.com/in/kerolasa
-My Linkedin profile
+Linkedin profile
 .UE .
 .br
-.UR https://www.ohloh.net/accounts/kerolasa
-Ohloh profile
+.UR https://www.openhub.net/accounts/kerolasa
+Open Hub profile
 .UE .
 .br
 .UR https://github.com/kerolasa/cv
@@ -18,6 +18,6 @@ This resume in git format
 .\" developer or graphical designer, but it works and is fast.  The design
 .\" reflects what is important to me.  In short less is more.
 .\"
-.\" In my opinion the Ohloh page is most important for anyone who is
+.\" In my opinion the Open Hub page is most important for anyone who is
 .\" interested of my CV.  See the page, and check my kudo rank.  As you can
 .\" see I am active open source contributor, and I can prove it.
