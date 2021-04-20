@@ -3,9 +3,8 @@
 tab(:);
 left l l.
 Name:Kerola, Sami Matias
-Date of birth:April 28th, 1977
+Date of birth:1977-04-28
 Place of birth:Raahe, Finland
-Marital Status:Married
 Driver's Licence:Yes, category BE
 Military Rank:Lance Corporal (korpraali)
 .TE
