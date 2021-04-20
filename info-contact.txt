@@ -2,12 +2,11 @@
 .TS
 tab(:);
 left l l.
-Address:Flat 4, Clarion House
-:70 Park Hill
+Address:Flat 3, 19 Trafalgar Avenue
+:SE15 6NP
 :London
-:SW4 9PB
 :United Kingdom
-Mobile:+447795344427
+Mobile:+447761367138
 Email:kerolasa@iki.fi
 .TE
 .\" I moved to London in late August 2012, where I am now living.

@@ -1,18 +1,14 @@
 .SS Links
-.UR http://www.iki.fi/kerolasa/
+.UR https://www.iki.fi/kerolasa/
 My homepage
 .UE .
 .br
-.UR http://www.linkedin.com/in/kerolasa
+.UR https://www.linkedin.com/in/kerolasa/
 Linkedin profile
 .UE .
 .br
 .UR https://www.openhub.net/accounts/kerolasa
 Open Hub profile
-.UE .
-.br
-.UR https://github.com/kerolasa/cv
-This resume in git format
 .UE .
 .\" Anyone looking my home page should realize I am not a web site UI
 .\" developer or graphical designer, but it works and is fast.  The design

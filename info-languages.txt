@@ -3,9 +3,8 @@
 tab(:);
 left l l.
 Finnish:native
-English:fluent enough
+English:fairly fluent
 Swedish:bare minimum
-Dutch:few words
 .TE
 .\" Quite frankly I am terrible what comes to human languages.  I blame my
 .\" attitude, for me it's good enough if I am roughly understood.  Minding
