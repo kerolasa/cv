@@ -3,17 +3,15 @@ The
 .I dhcpd-pools
 was my first real open source effort.  In
 .I TeliaSonera
-we had a problem of having rather large dhcpd setup.  Monitoring the
-state of leases was about taking nearly as long as polling interval.  I
-decided to solve the problem.  First implementation was
+we had a problem of having rather large dhcpd setup.  Monitoring the state
+of leases was about taking nearly as long as polling interval.  I decided to
+solve the problem.  First implementation was an
 .I awk
-script that proved the algorithm I chose worked, and the second version
-was wrote in
+script that proved the algorithm worked.  The second version was wrote in
 .IR C .
-When the analysis program ran as expected I decided to publish the work.
-.PP
-I have maintained this tool since 2006.  The dhcpd-pools has been
-really great project for me, and lead to know how to use
+After getting all working I decided to publish the code using open source
+licence.  I have been maintainer of this tool since 2006.  The dhcpd-pools
+has been really great project for me, and lead to know how to use
 .I automake
 and
 .IR autoconf ,
@@ -24,18 +22,16 @@ with all warnings,
 .IR smatch ,
 and
 .IR cppcheck .
-The numerous times I've caused a crash has teach me
-usefulness of
+The numerous times I've caused a crash has teach me usefulness of
 .IR gdb ,
 and
 .IR valgrind .
-For performance tuning I first used
-gcc
+For performance tuning I first used gcc
 .RI profiling ,
 before learning how to use
 .I perf
-tool.  And obviously
-version control systems has been in use since early days, first
+tool.  And obviously version control systems has been in use since early
+days, first
 .I cvs
-then
+later
 .IR git .
