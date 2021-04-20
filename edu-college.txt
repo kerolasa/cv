@@ -1,5 +1,5 @@
 .SS Raahe Commercial College
-Aug 14 1996 - May 31 1998 Raahen Porvari- ja Kauppakoulu
+1996-10-14 - 1998-05-31 Raahen Porvari- ja Kauppakoulu
 .\" The reason I applied to this school was that it was in the town where I
 .\" had born, which meant I could live in my parents place while going to
 .\" school.

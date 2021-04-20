@@ -1,5 +1,5 @@
 .SS "Further Qualification in Information Technology"
-Sep 15 2004 - Feb 09 2006 Amiedu
+2004-09-15 - 2006-02-09 Amiedu
 .\" The decision to get job qualification from Amiedu was given my friend
 .\" Tuomas who did similar study.  Point simply was, and is, that since
 .\" neither of us were nothing more than self learned hackers we had an issue
