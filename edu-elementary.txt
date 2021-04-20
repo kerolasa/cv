@@ -1,5 +1,5 @@
 .SS Senior secondary school
-Jun 01 1996 Saloisten lukio
+1996-06-01 Saloisten lukio
 .\" Finnish basic education, or the years when you make the childhood
 .\" friends, learn how to read, and do stuff that later feels like distant
 .\" dream.
