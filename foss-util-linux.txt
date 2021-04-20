@@ -1,13 +1,8 @@
 .SS util-linux
-My very first commit to project.
+I have spent with this project more time than with any other project.  The
+first change I wrote is from October 2010.  By now I have done more than
+1800 changes.
 .PP
-.nf
-commit c49e31f4ee7c35946f91335a8a3179f503bd9cf0
-Author: Sami Kerola <kerolasa@iki.fi>
-Date:   Fri Oct 1 00:33:44 2010 +0200
-.fi
-.PP
-That makes beginning of real open source activity.  Being member of this
-project has changed a lot how I think about computers, programming, and
-co-operating with community.  I have even caused a CVE-2015-5224, and fixed
-one CVE-2015-5218.
+Being member of this project has changed a lot how I think about computers,
+programming, and co-operating with community.  I have even caused a
+CVE-2015-5224, and fixed one CVE-2015-5218.

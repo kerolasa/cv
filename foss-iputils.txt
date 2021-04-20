@@ -1,0 +1,7 @@
+.SS iputils
+Another project I joined by first sending few changes, then more, and after
+a while maintainer asked if I would like to co-maintain the project.  So now
+I am a person who is the
+.I ping
+maintainer.  Unfortunately I haven't had as much time to to spend with
+iputils as I could wish for.  This project still needs a lot of love.
