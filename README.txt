@@ -1,5 +1,5 @@
 .\" Sami Kerola's CV in git repository using groff_man format.
-.TH "Sami Kerola" "8" "2017-09-06" "Resume" "System Administrator"
+.TH "Sami Kerola" "6" "2021-04-20" "Resume" "Systems programmer"
 .SH "Basic information"
 .so info-basics.txt
 .so info-contact.txt
