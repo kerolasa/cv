@@ -16,8 +16,8 @@
 .so foss-dhcpd-pools.txt
 .so foss-util-linux.txt
 .so foss-progps-ng.txt
-.so foss-f5gs.txt
 .so foss-gnu-hello-world.txt
+.so foss-iputils.txt
 .SH Education
 .so edu-amideu.txt
 .so edu-college.txt
