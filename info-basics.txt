@@ -14,7 +14,7 @@ Military Rank:Lance Corporal (korpraali)
 .\" why I mention it is quite simple.  In Finland there is a mandatory army,
 .\" and it quite common in that country to mention your rank.  Notice that my
 .\" rank is tiny bit better than just a common soldier which means they
-.\" appriciated my service.
+.\" appreciated my service.
 .\"
 .\" Talking about service in army my position was in an office doing
 .\" paperwork for the squad, and it happen to be that my fairly good in

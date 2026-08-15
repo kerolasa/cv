@@ -82,4 +82,4 @@ Luckily by the time planning took place the puppet master was already using
 .I gitlab
 and
 .I r10k
-so that managing complex view of data was at leas possible if not easy.
+so that managing complex view of data was at least possible but not easy.
