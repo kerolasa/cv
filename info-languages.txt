@@ -3,8 +3,8 @@
 tab(:);
 left l l.
 Finnish:native
-English:fairly fluent
-Swedish:bare minimum
+English:jolly good
+Swedish:jag kan inte prata svenska
 .TE
 .\" Quite frankly I am terrible what comes to human languages.  I blame my
 .\" attitude, for me it's good enough if I am roughly understood.  Minding

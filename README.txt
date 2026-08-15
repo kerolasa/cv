@@ -1,5 +1,5 @@
 .\" Sami Kerola's CV in git repository using groff_man format.
-.TH "Sami Kerola" "6" "2021-04-20" "Resume" "Systems programmer"
+.TH "Sami Kerola" "6" "2026-08-15" "Resume" "Systems programmer"
 .SH "Basic information"
 .so info-basics.txt
 .so info-contact.txt
@@ -13,11 +13,14 @@
 .so work-rtt-ohjelmistopankki.txt
 .so work-novo-group.txt
 .SH "Open source activities"
-.so foss-dhcpd-pools.txt
+.so foss-domainconnect.txt
 .so foss-util-linux.txt
+.so foss-dhcpd-pools.txt
 .so foss-progps-ng.txt
 .so foss-gnu-hello-world.txt
 .so foss-iputils.txt
+.SH Patents
+.so patent-decoupling-ip.txt
 .SH Education
 .so edu-amideu.txt
 .so edu-college.txt

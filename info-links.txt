@@ -1,5 +1,5 @@
 .SS Links
-.UR https://www.iki.fi/kerolasa/
+.UR https://kerolasa.iki.fi/
 My homepage
 .UE .
 .br
@@ -7,7 +7,7 @@ My homepage
 Linkedin profile
 .UE .
 .br
-.UR https://www.openhub.net/accounts/kerolasa
+.UR https://openhub.net/accounts/kerolasa
 Open Hub profile
 .UE .
 .\" Anyone looking my home page should realize I am not a web site UI

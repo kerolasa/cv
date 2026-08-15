@@ -1,4 +1,4 @@
-.SS Cloudflare \- July 2015 onwards.
+.SS Cloudflare \- July 2015 to July 2026
 Couple months after lastminute.com was bought writing was on the wall, I had
 to move on.
 .I London
