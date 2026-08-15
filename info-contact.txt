@@ -1,10 +1,11 @@
-.SS "Contact information"
+.SS "Contacts"
 .TS
-tab(:);
+tab(|);
 left l l.
-Mobile:+447761367138
-Email:kerolasa@iki.fi
-This CV:https://github.com/kerolasa/cv
+Mobile|+447761367138
+Email|kerolasa@iki.fi
+Address|Oxfordshire, United Kingdom
+This CV|https://github.com/kerolasa/cv
 .TE
 .\" I moved to United Kingdom in late August 2012.
 .\"

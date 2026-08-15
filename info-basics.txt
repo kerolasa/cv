@@ -1,4 +1,4 @@
-.SS "Basic information"
+.SS "About me"
 .TS
 tab(:);
 left l l.
