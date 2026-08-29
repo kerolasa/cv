@@ -1,9 +1,11 @@
 .\" Sami Kerola's CV in git repository using groff_man format.
-.TH "Sami Kerola" "6" "2026-08-15" "Resume" "Systems programmer"
+.TH "Sami Kerola" "6" "2026-08-29" "Resume" "Linux programmer and administrator"
 .SH "Basic information"
 .so info-basics.txt
 .so info-contact.txt
 .so info-languages.txt
+.SH Preamble
+.so preamble.txt
 .SH "Work experience"
 .so work-cloudflare.txt
 .so work-lastminute.txt

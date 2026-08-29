@@ -3,20 +3,8 @@
 tab(:);
 left l l.
 Full mame:Kerola, Sami Matias
-Availability:Currently unemployed, essentially asap
+Availability:Currently unemployed
 Date of birth:1977-04-28
 Place of birth:Raahe, Finland
 Driver's Licence:Yes, from United Kingdom
-Military Rank:Lance Corporal (korpraali)
 .TE
-.\"
-.\" Agreed, the military rank is a bit strange thing to have in CV.  Reason
-.\" why I mention it is quite simple.  In Finland there is a mandatory army,
-.\" and it quite common in that country to mention your rank.  Notice that my
-.\" rank is tiny bit better than just a common soldier which means they
-.\" appreciated my service.
-.\"
-.\" Talking about service in army my position was in an office doing
-.\" paperwork for the squad, and it happen to be that my fairly good in
-.\" typing that made me the most productive office soldier they had seen for
-.\" years.  That probably was reason why I got +1 to my rank.
