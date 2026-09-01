@@ -1,6 +1,6 @@
 default:
-	man -t ./README.txt > cv.ps
-	ps2pdf cv.ps cv.pdf
+	man -t ./README.txt > kerolasa-cv.ps
+	ps2pdf kerolasa-cv.ps kerolasa-cv.pdf
 
 clean:
-	rm -f cv.ps cv.pdf
+	rm -f kerolasa-cv.ps kerolasa-cv.pdf
