@@ -1,2 +1,0 @@
-.SS Decoupling of IP address bindings and use in a distributed cloud computing network
-Done when working for Cloudflare, together with Marwan Fayed and Pavel Odintsov.

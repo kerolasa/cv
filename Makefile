@@ -1,6 +1,6 @@
 default:
-	man -t ./README.txt > kerolasa-cv.ps
-	ps2pdf kerolasa-cv.ps kerolasa-cv.pdf
+	latex ./kerolasa-cv.latex
+	dvipdf ./kerolasa-cv.dvi
 
 clean:
-	rm -f kerolasa-cv.ps kerolasa-cv.pdf
+	rm -f  kerolasa-cv.aux kerolasa-cv.dvi kerolasa-cv.log kerolasa-cv.out

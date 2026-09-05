@@ -1,8 +1,0 @@
-.SS util-linux
-I have spent with this project more time than with any other project.  The
-first change I wrote is from October 2010.  By now I have done more than
-1800 changes.
-.PP
-Being member of this project has changed a lot how I think about computers,
-programming, and co-operating with community.  I have even caused a
-CVE-2015-5224, and fixed one CVE-2015-5218.
