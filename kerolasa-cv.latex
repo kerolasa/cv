@@ -1,4 +1,4 @@
-\documentclass{article}
+\documentclass[twoside]{article}
 \usepackage{geometry}
 \geometry{margin=1in}
 
@@ -15,7 +15,9 @@
 \usepackage{fancyhdr}
 \fancyhf{}
 \fancyhead[C]{}
-\fancyfoot[C]{Sami Kerola \textemdash{} resume page \thepage}
+\fancyfoot[LE,RO]{\thepage}
+\fancyfoot[LO,RE]{2026-09-07}
+\fancyfoot[CO,CE]{Sami Kerola}
 \renewcommand\headrulewidth{0pt}
 \pagestyle{fancy}
 
@@ -41,22 +43,22 @@ iputils/ping) running on billions of devices worldwide.  Available immediately.
 \section{Highlights}
 \begin{itemize}
 \itemsep 0em
-\item Over \textbf{1,800 merged patches} to util-linux since 2010, and a
-      fixed \href{https://nvd.nist.gov/vuln/detail/cve-2015-5218}{CVE} in
-      that codebase.
-\item Maintains \textbf{ping} for the iputils project, and is an official
-      maintainer of \textbf{GNU Hello}.
-\item Over \textbf{3,500 accepted open source contributions} across around
-      40 projects since 2009.
+\item Worked on Cloudflare's authoritative DNS routing.  Built and ran a DNS
+      platform serving over 20,000 domains at TeliaSonera.
 \item Co-inventor, with \textit{Marwan Fayed} and \textit{Pavel Odintsov},
       on a \href{https://patents.justia.com/patent/12375442}{Cloudflare
       patent} for decoupling IP address bindings in a distributed cloud
       network.
-\item Worked on Cloudflare's authoritative DNS routing.  Built and ran a DNS
-      platform serving over 20,000 domains at TeliaSonera.
+\item Over \textbf{3,500 accepted open source contributions} across around
+      40 projects since 2009.
+\item Over \textbf{1,800 merged patches} to util-linux since 2010, and a
+      fixed \href{https://nvd.nist.gov/vuln/detail/cve-2015-5218}{CVE} in
+      that codebase.
 \item Wrote \href{https://dhcpd-pools.sourceforge.net/}{dhcpd-pools} from
       scratch and has maintained it since 2006, using autoconf, automake,
       static analysis tools, gdb, valgrind and perf.
+\item Maintains \textbf{ping} for the iputils project, and is an official
+      maintainer of \textbf{GNU Hello}.
 \end{itemize}
 
 \section{Technical Skills}
@@ -139,19 +141,19 @@ iputils/ping) running on billions of devices worldwide.  Available immediately.
 \section{Open Source}
 \begin{itemize}
 \itemsep 0em
-\item \textbf{Domain Connect - contributor.} Wrote the
+\item \textbf{Domain Connect} - contributor. Wrote the
       \href{https://github.com/Domain-Connect/dc-template-linter}{dc-template-linter}
       validation tool while at Cloudflare, and contributed to the
       \href{https://datatracker.ietf.org/doc/draft-ietf-dconn-domainconnect/}{IETF standardization draft}
       for the protocol.
-\item \textbf{util-linux - contributor, 2010 to present.} Over 1,800 merged
+\item \textbf{util-linux} - contributor, 2010 to present. Over 1,800 merged
       patches to the core Linux utility suite.
-\item \textbf{dhcpd-pools - creator and maintainer, 2006 to 2025.}
+\item \textbf{dhcpd-pools} - creator and maintainer, 2006 to 2025.
       Written to monitor DHCP lease pools, first in AWK and then rewritten in C.
-\item \textbf{iputils - co-maintainer.}
-\item \textbf{GNU Hello - maintainer.} Invited to take over the project
+\item \textbf{iputils} - co-maintainer.
+\item \textbf{GNU Hello} - co-maintainer. Invited to take over the project
       after a series of accepted patches.
-\item \textbf{procps-ng - around 200 merged changes.} Build system fixes,
+\item \textbf{procps-ng} - around 200 merged changes. Build system fixes,
       coding style, NLS support and documentation. Contains utilities such
       as ps, free, and top.
 \end{itemize}
