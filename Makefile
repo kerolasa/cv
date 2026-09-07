@@ -1,4 +1,7 @@
-default:
+view: kerolasa-cv.pdf
+	zathura kerolasa-cv.pdf
+
+kerolasa-cv.pdf: kerolasa-cv.latex
 	latex ./kerolasa-cv.latex
 	dvipdf ./kerolasa-cv.dvi
 
