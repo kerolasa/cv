@@ -16,7 +16,7 @@
 \fancyhf{}
 \fancyhead[C]{}
 \fancyfoot[LE,RO]{\thepage}
-\fancyfoot[LO,RE]{2026-09-07}
+\fancyfoot[LO,RE]{2026-09-14}
 \fancyfoot[CO,CE]{Sami Kerola}
 \renewcommand\headrulewidth{0pt}
 \pagestyle{fancy}
@@ -27,67 +27,66 @@
 \begin{document}
 \begin{center}
 \huge{Sami Kerola}\\
-\large{Senior DevOps \& Infrastructure Engineer \textbullet{} Go / C / Linux Systems\\
-Oxfordshire, UK \textbullet{} +44 7761 367138 \textbullet{} \href{mailto:kerolasa@iki.fi}{kerolasa@iki.fi}\\
-LinkedIn: \href{https://www.linkedin.com/in/kerolasa/}{linkedin.com/in/kerolasa} \textbullet{} OpenHub: \href{https://openhub.net/accounts/kerolasa}{openhub.net/accounts/kerolasa}}
+\large{
+  Senior DevOps \& Infrastructure Engineer \textbullet{} Go / C / Linux Systems\\
+  Oxfordshire, UK \textbullet{} +44 7761 367138 \textbullet{} \href{mailto:kerolasa@iki.fi}{kerolasa@iki.fi} \textbullet{} homepage: \href{https://kerolasa.iki.fi}{kerolasa.iki.fi}\\
+  LinkedIn: \href{https://www.linkedin.com/in/kerolasa/}{linkedin.com/in/kerolasa} \textbullet{} OpenHub: \href{https://openhub.net/accounts/kerolasa}{openhub.net/accounts/kerolasa}\\
+  Availability: immediately
+}
 \end{center}
 
 \section{Profile}
-Systems Engineer with 25+ years of experience building and scaling
-high-availability Linux infrastructure, including 15+ years writing production
-C and Go code.  Proven track record scaling Cloudflare’s global authoritative
-DNS routing and holding a co-invented cloud networking patent.  Core maintainer
-and long-term contributor to critical Linux system utilities (util-linux,
-iputils/ping) running on billions of devices worldwide.  Available immediately.
+Linux programmer and system administrator with 25+ years of experience.
+Proven track record building business critial infrastucture and services,
+for customers who expect high-availability, low failure rates, and fast
+response times.  My work also includes participation in open source project
+(util-linux, iputils, procps-ng) that are installed and running on billions
+of devices.
 
 \section{Highlights}
 \begin{itemize}
 \itemsep 0em
-\item Worked on Cloudflare's authoritative DNS routing.  Built and ran a DNS
-      platform serving over 20,000 domains at TeliaSonera.
+\item Worked on Cloudflare's authoritative DNS routing, that serves 40
+      million requests per second (on average), with very low failure rate,
+      and response time expecation less than 20ms per request.
 \item Co-inventor, with \textit{Marwan Fayed} and \textit{Pavel Odintsov},
       on a \href{https://patents.justia.com/patent/12375442}{Cloudflare
       patent} for decoupling IP address bindings in a distributed cloud
       network.
+\item DevOps team member in Lastminute.com prior the company was sold.
+\item On-line web map system admin, and linux generalist for TomTom.
+\item Built and ran a DNS platform serving over 20,000 domains and recursion
+      for the company and customers at TeliaSonera.
 \item Over \textbf{3,500 accepted open source contributions} across around
-      40 projects since 2009.
-\item Over \textbf{1,800 merged patches} to util-linux since 2010, and a
-      fixed \href{https://nvd.nist.gov/vuln/detail/cve-2015-5218}{CVE} in
-      that codebase.
-\item Wrote \href{https://dhcpd-pools.sourceforge.net/}{dhcpd-pools} from
-      scratch and has maintained it since 2006, using autoconf, automake,
-      static analysis tools, gdb, valgrind and perf.
-\item Maintains \textbf{ping} for the iputils project, and is an official
-      maintainer of \textbf{GNU Hello}.
+      40 projects since 2009.  See OpenHub.
 \end{itemize}
 
 \section{Technical Skills}
 \textbf{Languages:} Go, C, Bash shell, AWK, m4\newline
 \textbf{Distributed systems and APIs:} gRPC, REST APIs, DNS (authoritative
-       and recursive, RFC level), concurrent distributed services\newline
+       and recursive, RFC level)\newline
 \textbf{Infra and config management:} Terraform, Docker,
        Puppet, Salt, Foreman, Pulp, GitLab and r10k\newline
-\textbf{Observability:} Prometheus, Grafana, Kibana, flamegraphs,
-       perf\newline
-\textbf{CI/CD and code quality:} Jenkins pipelines, static analysis (GCC,
-       Clang, Smatch, cppcheck), gdb, valgrind, release engineering\newline
-\textbf{Platforms:} PostgreSQL, Linux, kernel debugging, AIX, HP-UX,
-       OpenVMS\newline
+\textbf{Observability:} Prometheus, Grafana, Kibana, structured logging,
+       OpenTelemetry, flamegraphs, perf\newline
+\textbf{CI/CD and code quality:} git, Jenkins, GitLab CI, TeamCity, static
+       analysis (GCC, Clang, Smatch, cppcheck), gdb, valgrind\newline
+\textbf{Platforms:} Linux, kernel debugging, Solaris, AIX,
+       HP-UX, OpenVMS, PostgreSQL, ClickHouse, Kafka\newline
 \textbf{Operational:} on-call and incident response, attack mitigation,
-       security triage, PCI compliance, AI-assisted development
+       security triage, PCI compliance, ntp admin, AI-assisted development
 
 \section{Experience}
 
 \textbf{Software Engineer, DNS Team (previously SRE)} \textemdash{} Cloudflare, \textit{Jul 2015 – Jul 2026}
 \begin{itemize}
 \itemsep 0em
+\item As an SRE, covered on-call, attack mitigation and release engineering.
+      Was asked to formalise the company's release process because of the
+      volume of releases going through it.
 \item Moved from site reliability engineering into a full-time Golang role
       on the authoritative DNS team, working on DNS routing across a network
       spanning globally in co-locations.
-\item As an SRE, covered on-call, attack mitigation and release engineering.
-      Was asked to formalise the company's release process because of the
-      volume of releases going through it.  Built monitoring around
-      Prometheus and Grafana.
 \item Co-invented a patented approach to decoupling IP address bindings from
       their use in a distributed cloud network.
 \end{itemize}
@@ -147,9 +146,12 @@ iputils/ping) running on billions of devices worldwide.  Available immediately.
       \href{https://datatracker.ietf.org/doc/draft-ietf-dconn-domainconnect/}{IETF standardization draft}
       for the protocol.
 \item \textbf{util-linux} - contributor, 2010 to present. Over 1,800 merged
-      patches to the core Linux utility suite.
-\item \textbf{dhcpd-pools} - creator and maintainer, 2006 to 2025.
-      Written to monitor DHCP lease pools, first in AWK and then rewritten in C.
+      patches to the core Linux utility suite, including a
+      \href{https://nvd.nist.gov/vuln/detail/cve-2015-5218}{CVE} fix
+\item Wrote \href{https://dhcpd-pools.sourceforge.net/}{dhcpd-pools} to
+      monitor DHCP leases from scratch and has maintained it since 2006.
+      Created using C, autoconf, automake, static analysis tools, gdb,
+      valgrind, perf, and flamegraphs.
 \item \textbf{iputils} - co-maintainer.
 \item \textbf{GNU Hello} - co-maintainer. Invited to take over the project
       after a series of accepted patches.
