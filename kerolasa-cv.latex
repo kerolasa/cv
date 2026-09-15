@@ -16,7 +16,7 @@
 \fancyhf{}
 \fancyhead[C]{}
 \fancyfoot[LE,RO]{\thepage}
-\fancyfoot[LO,RE]{2026-09-14}
+\fancyfoot[LO,RE]{2026-09-15}
 \fancyfoot[CO,CE]{Sami Kerola}
 \renewcommand\headrulewidth{0pt}
 \pagestyle{fancy}
@@ -36,12 +36,13 @@
 \end{center}
 
 \section{Profile}
-Linux programmer and system administrator with 25+ years of experience.
-Proven track record building business critial infrastucture and services,
-for customers who expect high-availability, low failure rates, and fast
-response times.  My work also includes participation in open source project
-(util-linux, iputils, procps-ng) that are installed and running on billions
-of devices.
+\textbf{Linux} programmer and system administrator with \textbf{25+ years}
+of \textbf{experience}.  Proven \textbf{track record} building
+\textbf{business critial} infrastucture and services, for customers who
+expect \textbf{high-availability}, \textbf{low failure rates}, and
+\textbf{fast response times}.  My work also includes participation in
+\textbf{open source} project (\textbf{util-linux}, \textbf{iputils},
+\textbf{procps-ng}) that are installed and running on billions of devices.
 
 \section{Highlights}
 \begin{itemize}
@@ -57,7 +58,7 @@ of devices.
 \item On-line web map system admin, and linux generalist for TomTom.
 \item Built and ran a DNS platform serving over 20,000 domains and recursion
       for the company and customers at TeliaSonera.
-\item Over \textbf{3,500 accepted open source contributions} across around
+\item Over 3,500 accepted open source contributions across around
       40 projects since 2009.  See OpenHub.
 \end{itemize}
 
