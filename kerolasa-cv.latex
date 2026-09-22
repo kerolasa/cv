@@ -15,8 +15,8 @@
 \usepackage{fancyhdr}
 \fancyhf{}
 \fancyhead[C]{}
-\fancyfoot[LE,RO]{\thepage}
-\fancyfoot[LO,RE]{2026-09-15}
+\fancyfoot[RE,RO]{}
+\fancyfoot[LO,LE]{2026-09-23}
 \fancyfoot[CO,CE]{Sami Kerola}
 \renewcommand\headrulewidth{0pt}
 \pagestyle{fancy}
@@ -28,7 +28,7 @@
 \begin{center}
 \huge{Sami Kerola}\\
 \large{
-  Senior DevOps \& Infrastructure Engineer \textbullet{} Go / C / Linux Systems\\
+  Principal Systems / Infrastructure Engineer \textbullet{} Go / C / Linux\\
   Oxfordshire, UK \textbullet{} +44 7761 367138 \textbullet{} \href{mailto:kerolasa@iki.fi}{kerolasa@iki.fi} \textbullet{} homepage: \href{https://kerolasa.iki.fi}{kerolasa.iki.fi}\\
   LinkedIn: \href{https://www.linkedin.com/in/kerolasa/}{linkedin.com/in/kerolasa} \textbullet{} OpenHub: \href{https://openhub.net/accounts/kerolasa}{openhub.net/accounts/kerolasa}\\
   Availability: immediately
@@ -38,67 +38,98 @@
 \section{Profile}
 \textbf{Linux} programmer and system administrator with \textbf{25+ years}
 of \textbf{experience}.  Proven \textbf{track record} building
-\textbf{business critial} infrastucture and services, for customers who
+\textbf{business critical} infrastructure and services, for customers who
 expect \textbf{high-availability}, \textbf{low failure rates}, and
 \textbf{fast response times}.  My work also includes participation in
-\textbf{open source} project (\textbf{util-linux}, \textbf{iputils},
+\textbf{open source} projects (\textbf{util-linux}, \textbf{iputils},
 \textbf{procps-ng}) that are installed and running on billions of devices.
 
 \section{Highlights}
 \begin{itemize}
 \itemsep 0em
-\item Worked on Cloudflare's authoritative DNS routing, that serves 40
-      million requests per second (on average), with very low failure rate,
-      and response time expecation less than 20ms per request.
+\item Over 3,500 accepted contributions across 40 projects since 2009,
+      ranked 223 out of 7005000 in Openhub.
+\item Engineered authoritative DNS services at Cloudflare serving 40M+
+      requests/sec with \textless{}20ms response latency and high availability.
 \item Co-inventor, with \textit{Marwan Fayed} and \textit{Pavel Odintsov},
       on a \href{https://patents.justia.com/patent/12375442}{Cloudflare
       patent} for decoupling IP address bindings in a distributed cloud
       network.
-\item DevOps team member in Lastminute.com prior the company was sold.
-\item On-line web map system admin, and linux generalist for TomTom.
-\item Built and ran a DNS platform serving over 20,000 domains and recursion
-      for the company and customers at TeliaSonera.
-\item Over 3,500 accepted open source contributions across around
-      40 projects since 2009.  See OpenHub.
+\item Engineered Cloudflare's edge compute reboot automation low level,
+      saving thousands of SRE man hours annually.
 \end{itemize}
 
 \section{Technical Skills}
-\textbf{Languages:} Go, C, Bash shell, AWK, m4\newline
+\textbf{Languages:} Go, C, \texttt{bash} shell, \texttt{awk},
+       \texttt{m4}\newline
 \textbf{Distributed systems and APIs:} gRPC, REST APIs, DNS (authoritative
        and recursive, RFC level)\newline
-\textbf{Infra and config management:} Terraform, Docker,
-       Puppet, Salt, Foreman, Pulp, GitLab and r10k\newline
+\textbf{Infra and config management:} Edge Compute, Kubernetes (k8s),
+       Terraform, Docker, Puppet, Salt\newline
 \textbf{Observability:} Prometheus, Grafana, Kibana, structured logging,
-       OpenTelemetry, flamegraphs, perf\newline
-\textbf{CI/CD and code quality:} git, Jenkins, GitLab CI, TeamCity, static
-       analysis (GCC, Clang, Smatch, cppcheck), gdb, valgrind\newline
+       OpenTelemetry, flamegraphs, \texttt{perf}\newline
+\textbf{CI/CD and code quality:} \texttt{git}, Jenkins, GitLab CI, TeamCity,
+       static analysis (\texttt{gcc}, \texttt{clang}, \texttt{smatch},
+       \texttt{cppcheck}), \texttt{gdb}, \texttt{valgrind}\newline
 \textbf{Platforms:} Linux, kernel debugging, Solaris, AIX,
        HP-UX, OpenVMS, PostgreSQL, ClickHouse, Kafka\newline
 \textbf{Operational:} on-call and incident response, attack mitigation,
        security triage, PCI compliance, ntp admin, AI-assisted development
 
-\section{Experience}
-
-\textbf{Software Engineer, DNS Team (previously SRE)} \textemdash{} Cloudflare, \textit{Jul 2015 – Jul 2026}
+\section{Open Source}
 \begin{itemize}
 \itemsep 0em
-\item As an SRE, covered on-call, attack mitigation and release engineering.
-      Was asked to formalise the company's release process because of the
-      volume of releases going through it.
-\item Moved from site reliability engineering into a full-time Golang role
-      on the authoritative DNS team, working on DNS routing across a network
-      spanning globally in co-locations.
-\item Co-invented a patented approach to decoupling IP address bindings from
-      their use in a distributed cloud network.
-\item Domain Connect DNS Provider implementation, maintenance, and IETF
-      draft RFC work.
+\item \textbf{Domain Connect} - contributor. Wrote the
+      \texttt{\href{https://github.com/Domain-Connect/dc-template-linter}{dc-template-linter}}
+      validation tool while at Cloudflare, and contributed to the
+      \href{https://datatracker.ietf.org/doc/draft-ietf-dconn-domainconnect/}{IETF standardization draft}
+      for the protocol.
+\item \textbf{util-linux} - contributor, 2010 to present. Over 1,800 merged
+      patches to the core Linux utility suite.
+\item Wrote
+      \texttt{\href{https://dhcpd-pools.sourceforge.net/}{dhcpd-pools}} to
+      monitor DHCP leases from scratch and has maintained it since 2006.
+      Created using C, \texttt{autoconf}, \texttt{automake}, static analysis
+      tools, \texttt{gdb}, \texttt{valgrind}, \texttt{perf}, and
+      \texttt{flamegraph}.
+\item \textbf{iputils} - co-maintainer.  Known for \texttt{ping} utility.
+\item \textbf{GNU Hello} - co-maintainer. Invited to take over the project
+      after a series of accepted patches.
+\item \textbf{procps-ng} - around 200 merged changes. Contains utilities such
+      as \texttt{top}, \texttt{ps}, and \texttt{free}.
 \end{itemize}
 
-\textbf{Senior Systems Administrator / Infrastructure Architect} \textemdash{} Lastminute.com, \textit{Sep 2012 – Jun 2015}
+\section{Experience}
+
+\textbf{Software Engineer, DNS Team (previously SRE)} \textemdash{} Cloudflare, \textit{Jul 2015 - Jul 2026}
+\begin{itemize}
+\itemsep 0em
+\item Domain Connect DNS Provider implementation, maintenance, and IETF
+      draft RFC work.
+\item Co-invented a patented approach to decoupling IP address bindings from
+      their use in a distributed cloud network.
+\item Made the Cloudflare's China network IP addressing and traffic
+      distribution to work, being the principal engineer writing the code.
+\item Developed self-healing network automation for Cloudflare's edge DNS
+      infrastructure to automatically mitigate edge failures.
+\item Optimized dnstap-based recursion logging, reducing analytics pipeline
+      resource usage by 90\%.
+\item Moved from site reliability engineering into a full-time Golang role
+      on the authoritative DNS team.
+\item In a SRE role for first couple years in Cloudflare; covered on-call,
+      attack mitigation, release engineering, and incident resolution.
+\item During SRE my job included responsibility over the servers in China as
+      the subject matter expert.
+\end{itemize}
+
+\textbf{Senior Systems Administrator / Infrastructure Architect} \textemdash{} Lastminute.com, \textit{Sep 2012 - Jun 2015}
 \begin{itemize}
 \itemsep 0em
 \item Moved legacy infrastructure onto Puppet, Foreman and Pulp, and
       introduced Jenkins pipelines for developer self-service.
+\item Wrote F5 Graceful Scaling (\texttt{f5gs}) helper utility to coordinate service
+      availability and discovery. The tool is written in C, has native systemd
+      bindings, and is using embedded programming concepts.
 \item Wrote the technical plan for moving the company's data centre from the
       US to Europe, covering provisioning and configuration management,
       using GitLab and r10k.
@@ -107,61 +138,12 @@ expect \textbf{high-availability}, \textbf{low failure rates}, and
       maintaining PCI compliance.
 \end{itemize}
 
-\textbf{Systems Engineer} \textemdash{} TomTom, \textit{Sep 2008 – Aug 2012}
-\begin{itemize}
-\itemsep 0em
-\item Owned production operations for \href{https://plan.tomtom.com/}{TomTom
-      Route Planner}: change management, monitoring, security and
-      performance, working closely with several developer teams.  In
-      hindsight, this was DevOps before the term was in common use.
-\item Led two data centre migrations, introduced Puppet configuration
-      management, and rebuilt DNS management and server provisioning.
-\end{itemize}
-
-\textbf{Principal Engineer (Consultant)} \textemdash{} Capgemini Finland, \textit{Jan 2007 – Aug 2008}
-\begin{itemize}
-\itemsep 0em
-\item Delivered order processing systems for a retail client handling billions
-      of euros in annual order volume.
-\item Designed an anycast DNS architecture for Nokia Siemens Networks, and
-      supported enterprise Unix estates (AIX, HP-UX, Oracle RAC) for several
-      clients.
-\end{itemize}
-
-\textbf{DNS Hostmaster Team Lead / Web Portal Administrator} \textemdash{} TeliaSonera, \textit{Apr 2000 – Dec 2006}
-\begin{itemize}
-\itemsep 0em
-\item Redesigned and ran a DNS platform serving over 20,000 domains at
-      around 1GB per hour of recursive traffic, on Linux with F5 BIG-IP load
-      balancing.
-\item Modernised the company web portal, moving from Vignette V4 to V5,
-      introducing Bluecoat reverse proxies and LDAP based authentication.
-\end{itemize}
-
-\textbf{Earlier roles:} RTT Ohjelmistopankki \textit{1999 – 2000}, Novo Group \textit{1999}.
-
-\section{Open Source}
-\begin{itemize}
-\itemsep 0em
-\item \textbf{Domain Connect} - contributor. Wrote the
-      \href{https://github.com/Domain-Connect/dc-template-linter}{dc-template-linter}
-      validation tool while at Cloudflare, and contributed to the
-      \href{https://datatracker.ietf.org/doc/draft-ietf-dconn-domainconnect/}{IETF standardization draft}
-      for the protocol.
-\item \textbf{util-linux} - contributor, 2010 to present. Over 1,800 merged
-      patches to the core Linux utility suite, including a
-      \href{https://nvd.nist.gov/vuln/detail/cve-2015-5218}{CVE} fix
-\item Wrote \href{https://dhcpd-pools.sourceforge.net/}{dhcpd-pools} to
-      monitor DHCP leases from scratch and has maintained it since 2006.
-      Created using C, autoconf, automake, static analysis tools, gdb,
-      valgrind, perf, and flamegraphs.
-\item \textbf{iputils} - co-maintainer.
-\item \textbf{GNU Hello} - co-maintainer. Invited to take over the project
-      after a series of accepted patches.
-\item \textbf{procps-ng} - around 200 merged changes. Build system fixes,
-      coding style, NLS support and documentation. Contains utilities such
-      as ps, free, and top.
-\end{itemize}
+\textbf{Earlier roles:}
+Systems Engineer at TomTom \textit{2008 - 2012},
+Consultant at Capgemini Finland \textit{2007 - 2008},
+DNS Hostmaster Team Lead at TeliaSonera \textit{2000 - 2006},
+RTT Ohjelmistopankki \textit{1999 – 2000},
+Novo Group \textit{1999}.
 
 \section{Education}
 \textbf{Further Qualification in Information Technology} \textemdash{} Amiedu, \textit{2004–2006}\newline
